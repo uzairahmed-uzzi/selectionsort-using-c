@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669909948 source:d:\programs\c programs\selection_sort\selectionsort.c
+	<stdio.h>
+	<conio.h>
+
